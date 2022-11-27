@@ -1,0 +1,23 @@
+
+body {
+    background-color: blanchedalmond;
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 6px;
+    border-color: gray;
+    width: 8%;
+}
+
+h3 {
+    color: yellowgreen;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+h5 {
+    color: yellowgreen;
+}
