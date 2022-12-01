@@ -1,0 +1,99 @@
+
+* {margin: 0;
+    padding: 0;
+        background-color:black;}
+
+.section{
+    align-items: center;
+}
+.container2 {
+    gap: 70px;
+    display:flex;
+    flex-direction: column;
+    column-gap: space-between;
+    align-items: center;
+}
+
+.isi{
+    background-color: #F0E68C;
+}
+.blank{
+    height: 75px;
+    background-color: black;
+}
+.container1 {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url('pola.jpg');
+}
+
+.kelompok1 {
+    width: 80px; 
+    height: 180px;
+    margin: auto;
+    text-align: center;
+    padding: 70px;
+    border-style:outset;
+    border-color: 	#BDB76B;    
+    border-width: 10px;
+    border-radius: 20%;
+    background-color: #F0E68C
+}
+
+.kelompok2 {
+    width: 80px; 
+    height: 180px;
+    margin: auto; 
+    text-align: center;
+    padding: 70px;
+    border-style: outset;
+    border-color:	#BDB76B;
+    border-radius: 20%;
+    border-width: 10px;
+    background-color: #F0E68C
+}
+
+
+.kelompok3 {
+    width: 80px; 
+    height: 180px;
+    margin: auto; 
+    text-align: center;
+    padding: 70px;
+    border-style: outset;
+    border-color:	#BDB76B;
+    border-radius: 20%;
+    border-width: 10px;
+    background-color: #F0E68C
+}
+
+
+.iconbody2 {
+    width: 70px;
+    height: 70px;
+    border-radius: 15%;
+}
+
+img{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    background-color: antiquewhite;
+    border-color:whitesmoke;
+    border-style:double;
+}
+
+.profile {
+    height: 75px;
+    width: 75px;
+    border-radius: 100%;
+    border-color: whitesmoke;
+    border-style:double ;
+}
+
+p {
+    font-size: 25px;
+    font-style:italic;
+}
